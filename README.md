@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghanath</h1>
 <h3 align="center">🎓 Final Year B.Tech Student (AI & Data Science) </h3>
 📍 Hyderabad, India 
----
+
 
 ### 👨‍💻 About Me
 - 🎓 Final Year B.Tech Student
