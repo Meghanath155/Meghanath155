@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Meghanath</h1>
+<h3 align="center">AI & Data Science Student | Future Software Engineer</h3>
 
-<!--
-**Meghanath155/Meghanath155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Final Year B.Tech Student
+- 💡 Learning Python & DSA
+- ☁️ Exploring Cloud & AI
+- 🚀 Building skills for tech jobs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+- Python
+- SQL
+- Git & GitHub
+- Google Cloud (Beginner)
+
+---
+
+### 📌 Current Focus
+- Strengthening DSA
+- Building real-world Python projects
+- Improving problem solving skills
+
+---
+
+### 📈 Future Goals
+- Crack a Software/AI role
+- Build impactful AI projects
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/yaddanapudi-meghanath-4832a8366)
+- Email: (yaddanapudimeghanath15@gmail.com)
+  
