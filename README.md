@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Meghanath</h1>
-<h3 align="center">AI & Data Science Student | Future Software Engineer</h3>
-
+<h3 align="center">🎓 Final Year B.Tech Student (AI & Data Science) </h3>
+📍 Hyderabad, India 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Final Year B.Tech Student
-- 💡 Learning Python & DSA
-- ☁️ Exploring Cloud & AI
-- 🚀 Building skills for tech jobs
+- 🐍 Currently learning Python
+- ☁️ Exploring Google Cloud Platform
+- 🤖 Interested in AI & future technologies
+- 🚀 Building skills for a strong tech career
 
 ---
 
@@ -20,9 +21,9 @@
 ---
 
 ### 📌 Current Focus
-- Strengthening DSA
-- Building real-world Python projects
-- Improving problem solving skills
+- Strengthening Python
+- Building small practical projects
+- Understanding AI fundamentals
 
 ---
 
